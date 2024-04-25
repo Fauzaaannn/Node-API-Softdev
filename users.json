@@ -1,0 +1,36 @@
+{
+    "user1": {
+      "id":1,
+      "nama":"Ragil",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"0816562115"
+    },
+
+    "user2": {
+      "id":2,
+      "nama":"Fauzan",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"08192734682"
+    },
+
+    "user3": {
+      "id":3,
+      "nama":"Awang",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"08192734682"
+    },
+
+    "user4": {
+      "id":4,
+      "nama":"isa",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"08192734682"
+    },
+
+    "user5": {
+      "id":5,
+      "nama":"Arva",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"08192734682"
+    }
+  }
